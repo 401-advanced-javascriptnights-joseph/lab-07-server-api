@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "_id": 1234,
+      "name": "Joseph",
+      "display_name": "Broseph",
+      "description": "Uhmazing"
+    },
+    {
+      "id": 3,
+      "name": "Mark",
+      "desciption": "Mark"
+    },
+    {
+      "id": 4,
+      "name": "Mark",
+      "desciption": "Brother"
+    }
+  ],
+  "products": [
+    {
+      "_id": 2345,
+      "category": 1234,
+      "name": "Joseph",
+      "display_name": "Broseph",
+      "description": "Uhmazing"
+    }
+  ]
+}
